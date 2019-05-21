@@ -6,7 +6,7 @@ Newsletter Sign up subscribed form data to be posted directed to mailchimp list 
 Technologies Used:
 HTML5, CSS3, JavaScript ES6, NPM, Node.js, Express, body-parser, request, Heroku, etc
 
-Demo:
+Demo: https://calm-fortress-94439.herokuapp.com/
 
 How it works:
 <ol>
